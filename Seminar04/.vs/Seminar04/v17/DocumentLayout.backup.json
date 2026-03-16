@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rusma\\Desktop\\SDD\\Seminar04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1447C966-FC9D-46D8-8737-6C6AC15CC5B5}|Seminar04.vcxproj|C:\\Users\\rusma\\Desktop\\SDD\\Seminar04\\Seminar04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1447C966-FC9D-46D8-8737-6C6AC15CC5B5}|Seminar04.vcxproj|solutionrelative:Seminar04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1447C966-FC9D-46D8-8737-6C6AC15CC5B5}|Seminar04.vcxproj|C:\\Users\\rusma\\Desktop\\SDD\\Seminar04\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1447C966-FC9D-46D8-8737-6C6AC15CC5B5}|Seminar04.vcxproj|solutionrelative:masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "masini.txt",
+              "DocumentMoniker": "C:\\Users\\rusma\\Desktop\\SDD\\Seminar04\\masini.txt",
+              "RelativeDocumentMoniker": "masini.txt",
+              "ToolTip": "C:\\Users\\rusma\\Desktop\\SDD\\Seminar04\\masini.txt*",
+              "RelativeToolTip": "masini.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-16T17:36:50.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seminar04.c",
+              "DocumentMoniker": "C:\\Users\\rusma\\Desktop\\SDD\\Seminar04\\Seminar04.c",
+              "RelativeDocumentMoniker": "Seminar04.c",
+              "ToolTip": "C:\\Users\\rusma\\Desktop\\SDD\\Seminar04\\Seminar04.c",
+              "RelativeToolTip": "Seminar04.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T17:36:16.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

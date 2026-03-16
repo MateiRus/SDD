@@ -1,0 +1,3 @@
+﻿  Seminar04.c
+C:\Users\rusma\Desktop\SDD\Seminar04\Seminar04.c(31,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Seminar04.vcxproj -> C:\Users\rusma\Desktop\SDD\Seminar04\x64\Debug\Seminar04.exe
